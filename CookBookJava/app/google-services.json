@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "598777255184",
+    "firebase_url": "https://cookbook-35a9e-default-rtdb.firebaseio.com",
+    "project_id": "cookbook-35a9e",
+    "storage_bucket": "cookbook-35a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598777255184:android:1d736b9e731ddbaf544195",
+        "android_client_info": {
+          "package_name": "com.app.cookbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0XJmfP7kPgHfG-a_lyAWpYVouCs-mew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
