@@ -1,0 +1,340 @@
+{
+  "Recipes": {
+    "-O6_hXRq6ksoBrgmlSCW": {
+      "chiTietMonAn": "1",
+      "hinhAnhMonAn": "https://image.tinnhanhchungkhoan.vn/w860/Uploaded/2024/aohuojr/2021_01_29/mon-ngon-cuoi-tuan-tu-ca-ca-thu-kho-dua-cai-2628.jpg",
+      "id": "-O6_hXRq6ksoBrgmlSCW",
+      "tenMonAn": "test"
+    },
+    "-O6_nxqDpIa0O9zxumD5": {
+      "chiTietMonAn": "hehe",
+      "hinhAnhMonAn": "data:image/jpeg;base64,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",
+      "id": "-O6_nxqDpIa0O9zxumD5",
+      "tenMonAn": "Bò bía ngon"
+    },
+    "-O6aQQAXhUiAHmyATn8I": {
+      "chiTietMonAn": "tesstt",
+      "hinhAnhMonAn": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/459405355_942142074625038_6516562985971546739_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nq0UJ8kxVmYQ7kNvgE-rl50&_nc_ht=scontent.fhan14-5.fna&_nc_gid=ANVEXw_58BQzSN0BdnihQxs&oh=00_AYChWW3OlXki7dIUluIz531t5h_70aFe7eF_lAbDbG5Umw&oe=66E8B013",
+      "id": "-O6aQQAXhUiAHmyATn8I",
+      "tenMonAn": "tst"
+    }
+  },
+  "category": [
+    null,
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cookbook-35a9e.appspot.com/o/monxao.jpg?alt=media&token=bc7e7fe7-f679-4f15-aa33-6382ef2333f7",
+      "name": "Món  Xào"
+    },
+    {
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cookbook-35a9e.appspot.com/o/moncanh.jpg?alt=media&token=857171f4-23c4-41ab-8f7b-4b2a96759157",
+      "name": "Món Canh"
+    },
+    {
+      "id": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cookbook-35a9e.appspot.com/o/monnuong.jpg?alt=media&token=47779f2f-af6d-432c-82a2-25ce1f14bbbb",
+      "name": "Món Nướng"
+    },
+    {
+      "id": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cookbook-35a9e.appspot.com/o/monchien.jpg?alt=media&token=d311e679-43f6-44ce-a980-4e77ca88a470",
+      "name": "Món Chiên "
+    },
+    {
+      "id": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cookbook-35a9e.appspot.com/o/monkho.jpg?alt=media&token=0ab05fea-956b-48d9-93dc-f38487329e87",
+      "name": "Món Kho"
+    },
+    {
+      "id": 6,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cookbook-35a9e.appspot.com/o/goinuong.jpg?alt=media&token=7da7b2a0-8f2e-46ab-93f8-fe8e634ffdf6",
+      "name": "Món Gỏi"
+    }
+  ],
+  "feedback": {
+    "1712981404661": {
+      "comment": "App hoat dong rat tot !!!",
+      "email": "test@gmail.com",
+      "name": "Nguyen Dang Tin",
+      "phone": "0986898689"
+    },
+    "1717664598572": {
+      "comment": "Huong dan rat chi tiet !!!",
+      "email": "test@gmail.com",
+      "name": "Nguyen Thi Xuan",
+      "phone": "0978787878"
+    }
+  },
+  "food": [
+    null,
+    {
+      "categoryId": 4,
+      "categoryName": "Món Chiên",
+      "featured": true,
+      "history": {
+        "1717752925748": {
+          "emailUser": "test@gmail.com",
+          "id": 1717752925748
+        }
+      },
+      "id": 1,
+      "image": "https://candycancook.com/wp-content/uploads/2018/12/canh-ga-ran-cay-Han-Quoc-final4.jpg",
+      "name": "CÁNH GÀ BONCHON CHIÊN GIÒN SỐT CAY ĐỈNH CỦA ĐỈNH",
+      "url": "https://candycancook.com/2018/12/canh-ga-chien-gion-sot-cay-kieu-han-quoc/"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Món Canh",
+      "id": 2,
+      "image": "https://candycancook.com/wp-content/uploads/2018/01/miso-soup-final1.jpg",
+      "name": "CANH MISO HAY LÀ CÁCH LÀM NƯỚC DÙNG DASHI",
+      "url": "https://candycancook.com/2018/01/canh-miso-va-nuoc-dung-dashi/"
+    },
+    {
+      "categoryId": 1,
+      "categoryName": "Món Xào",
+      "featured": true,
+      "id": 3,
+      "image": "https://candycancook.com/wp-content/uploads/2017/12/suon-nau-dau-final2.jpg",
+      "name": "SƯỜN NẤU ĐẬU – MÓN ĂN GIÀU DINH DƯỠNG",
+      "url": "https://candycancook.com/2017/12/suon-nau-dau/"
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Món Kho",
+      "id": 4,
+      "image": "https://candycancook.com/wp-content/uploads/2013/07/thit-kho-dua-final-3.jpg",
+      "name": "THỊT KHO DỪA – MUỐN ĂN THÌ LĂN VÀO BẾP",
+      "url": "https://candycancook.com/2013/07/cach-lam-thit-kho-dua/"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Món Nướng",
+      "id": 5,
+      "image": "https://candycancook.com/wp-content/uploads/2018/11/thit-lon-nuong-kieu-Thai-ko-mu-yang-final1.jpg",
+      "name": "THỊT LỢN NƯỚNG SIÊU MỀM KIỂU THÁI – KO MU YANG",
+      "url": "https://candycancook.com/2018/11/ko-mu-yang-thit-lon-nuong-kieu-thai/"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Món Nướng",
+      "id": 6,
+      "image": "https://candycancook.com/wp-content/uploads/2018/08/thit-nuong-satay-kieu-thai-final-1.jpg",
+      "name": "THỊT LỢN NƯỚNG SATAY KIỂU THÁI (PORK SATAY)",
+      "url": "https://candycancook.com/2018/08/thit-lon-nuong-satay-kieu-thai/"
+    },
+    {
+      "categoryId": 1,
+      "categoryName": "Món Xào",
+      "count": 1,
+      "history": {
+        "1718617646801": {
+          "emailUser": "test@gmail.com",
+          "id": 1718617646801
+        }
+      },
+      "id": 7,
+      "image": "https://candycancook.com/wp-content/uploads/2014/11/cach-lam-pad-thai-final1.jpg",
+      "name": "PAD THAI – HẤP DẪN MỲ XÀO KIỂU THÁI",
+      "url": "https://candycancook.com/2014/11/my-xao-kieu-thai-pad-thai-ngon/"
+    },
+    {
+      "categoryId": 1,
+      "categoryName": "Món Xào",
+      "favorite": {
+        "1718166693451": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718166693451
+        }
+      },
+      "id": 8,
+      "image": "https://candycancook.com/wp-content/uploads/2014/07/thit-bo-xao-gia-thap-cam-final3.jpg",
+      "name": "HẤP DẪN GIÁ XÀO THỊT BÒ",
+      "url": "https://candycancook.com/2014/07/cach-lam-gia-xao-thit-bo-thap-cam/"
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Món Gỏi",
+      "featured": true,
+      "history": {
+        "1718163403266": {
+          "emailUser": "test@gmail.com",
+          "id": 1718163403266
+        }
+      },
+      "id": 9,
+      "image": "https://candycancook.com/wp-content/uploads/2014/01/cach-lam-goi-muc-final1.jpg",
+      "name": "GỎI MỰC – MÓN ĂN ĐẮT KHÁCH",
+      "url": "https://candycancook.com/2014/01/cach-lam-goi-muc/"
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Món Gỏi",
+      "count": 2,
+      "history": {
+        "1717752900343": {
+          "emailUser": "test@gmail.com",
+          "id": 1717752900343
+        },
+        "1718163976561": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718163976561
+        },
+        "1718614792400": {
+          "emailUser": "test2@gmail.com",
+          "id": 1718614792400
+        }
+      },
+      "id": 10,
+      "image": "https://candycancook.com/wp-content/uploads/2013/12/goi-cuon-tom-thit-summer-roll-final2.jpg",
+      "name": "GỎI CUỐN – MÓN ĂN CHO CÁC PARTY",
+      "rating": {
+        "289979574": {
+          "rate": 5,
+          "review": "Tuyet voi"
+        }
+      },
+      "url": "https://candycancook.com/2013/12/cach-lam-goi-cuon-nem-tuoi/"
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Món Kho",
+      "count": 1,
+      "history": {
+        "1717749222826": {
+          "emailUser": "test@gmail.com",
+          "id": 1717749222826
+        },
+        "1718164519828": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718164519828
+        }
+      },
+      "id": 11,
+      "image": "https://candycancook.com/wp-content/uploads/2016/10/ca-kho-to-final2.jpg",
+      "name": "ĐẬM ĐÀ CÁCH LÀM CÁ KHO TỘ NHANH",
+      "url": "https://candycancook.com/2016/10/ca-kho-to/"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Món Canh",
+      "count": 1,
+      "featured": true,
+      "history": {
+        "1718164578554": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718164578554
+        }
+      },
+      "id": 12,
+      "image": "https://candycancook.com/wp-content/uploads/2014/07/canh-rau-muong-khoai-so-nau-suon-final2.jpg",
+      "name": "MÁT RUỘT VỚI CANH RAU MUỐNG KHOAI SỌ",
+      "url": "https://candycancook.com/2014/08/canh-rau-muong-khoai-so-nau-suon/"
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Món Kho",
+      "count": 5,
+      "favorite": {
+        "1718614731126": {
+          "emailUser": "test2@gmail.com",
+          "id": 1718614731126
+        }
+      },
+      "featured": true,
+      "history": {
+        "1717749198030": {
+          "emailUser": "test@gmail.com",
+          "id": 1717749198030
+        },
+        "1718164610425": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718164610425
+        }
+      },
+      "id": 13,
+      "image": "https://candycancook.com/wp-content/uploads/2012/03/ca-kho-thit-final-3.jpg",
+      "name": "BÍ KÍP GIA TRUYỀN – CÁCH LÀM CÁ KHO RIỀNG",
+      "url": "https://candycancook.com/2012/03/cach-lam-ca-kho-rieng/"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Món Nướng",
+      "count": 2,
+      "favorite": {
+        "1718165557109": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718165557109
+        },
+        "1718614733307": {
+          "emailUser": "test2@gmail.com",
+          "id": 1718614733307
+        }
+      },
+      "history": {
+        "1717748522236": {
+          "emailUser": "test@gmail.com",
+          "id": 1717748522236
+        },
+        "1718164602047": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718164602047
+        }
+      },
+      "id": 14,
+      "image": "https://candycancook.com/wp-content/uploads/2014/09/pizza-bang-chao-khong-dung-lo-nuong-final2.jpg",
+      "name": "NƯỚNG PIZZA BẰNG CHẢO – KHÔNG DÙNG LÒ NƯỚNG",
+      "rating": {
+        "399893507": {
+          "rate": 5,
+          "review": "Huong dan rat chi tiet"
+        }
+      },
+      "url": "https://candycancook.com/2014/09/nuong-pizza-bang-chao-khong-dung-lo-nuong/"
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Món Chiên",
+      "count": 2,
+      "favorite": {
+        "1718163538118": {
+          "emailUser": "tin@gmail.com",
+          "id": 1718163538118
+        }
+      },
+      "history": {
+        "1717748484285": {
+          "emailUser": "test@gmail.com",
+          "id": 1717748484285
+        },
+        "1717754460210": {
+          "emailUser": "tin@gmail.com",
+          "id": 1717754460210
+        }
+      },
+      "id": 15,
+      "image": "https://candycancook.com/wp-content/uploads/2017/10/tom-chien-trung-muoi-final-6.jpg",
+      "name": "GIÒN BÙI TÔM CHIÊN TRỨNG MUỐI",
+      "rating": {
+        "289979574": {
+          "rate": 2,
+          "review": "App hoat dong tot"
+        },
+        "399893507": {
+          "rate": 3,
+          "review": "Rat de hieu"
+        }
+      },
+      "url": "https://candycancook.com/2017/10/tom-chien-trung-muoi/"
+    }
+  ],
+  "request": {
+    "1712983506538": {
+      "content": "Sườn xào chua ngọt"
+    },
+    "1717664566746": {
+      "content": "Bo sot tieu den"
+    }
+  }
+}
